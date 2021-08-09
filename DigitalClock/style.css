@@ -1,0 +1,17 @@
+body
+{
+    background-color: black;
+
+}
+.clock
+{
+color:rgba(120, 201, 113, 0.507);
+font-weight: 400;
+letter-spacing: 7px;
+font-size: 25px;
+left: 50%;
+top: 50%;
+position:absolute;
+transform: translatex(-50%) translatey(-50%);
+
+}
